@@ -1,0 +1,36 @@
+.dg_container {
+    /* background-image: url("https://assets.ccbp.in/frontend/react-js/digital-timer-elapsed-bg.png");
+    background-size: cover; */
+    background-color: #cffcf1;
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+}
+
+.bg_image {
+    background-image: url("https://assets.ccbp.in/frontend/react-js/digital-timer-elapsed-bg.png");
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width: 50vw;
+}
+
+.whiteTimer {
+    background-color: white;
+    padding: 10px;
+}
+
+.playReset {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px;
+}
+
+.images {
+    height: 30px;
+    width: 30px;
+}

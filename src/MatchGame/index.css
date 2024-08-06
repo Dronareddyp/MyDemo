@@ -1,0 +1,74 @@
+.db_container {
+    background-image: url("https://assets.ccbp.in/frontend/react-js/match-game-bg.png");
+    background-size: cover;
+    margin: 0px;
+    /* display: flex; */
+    /* width: 100vw; */
+    height: 100vh;
+}
+
+.imagesS {
+    width: 20px;
+    height: 20px;
+    /* padding-left: 10px; */
+}
+
+.time_container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.navBarheder {
+    background-color: #2c0e3a;
+    display: flex;
+    justify-content: space-between;
+    padding: 15px;
+    /* width: 100vw; */
+    height: 40px;
+    /* box-shadow: 0 -6px 10px 5px rgba(0, 0, 0, 0.5); */
+}
+
+.tumbnailUrl {
+    width: 100px;
+    height: 100px;
+    list-style-type: none;
+}
+
+.imageTumbnail {
+    height: 200px;
+}
+
+.listImage {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.tabList {
+    display: flex;
+    justify-content: center;
+    color: white;
+    list-style-type: none;
+}
+
+.imageGameOver {
+    background-image: url("https://assets.ccbp.in/frontend/react-js/match-game-score-card-lg-bg.png");
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 50vw;
+    height: 80vh;
+}
+
+.button {
+    background-color: #cf60c8;
+    border-width: 0px;
+}
+
+.tropyImage {
+    /* display: flex; */
+    width: 200px;
+    height: 200px;
+}

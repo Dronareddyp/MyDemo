@@ -1,0 +1,16 @@
+.deleteImage {
+    width: 15px;
+    height: 15px;
+}
+
+.itemsList2 {
+    display: flex;
+    flex-direction: row;
+}
+
+.itemsList2 p {
+    display: flex;
+    flex-direction: row;
+    margin: 0px;
+    padding: 10px;
+}

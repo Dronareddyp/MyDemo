@@ -1,0 +1,19 @@
+.dg_containar {
+    display: flex;
+    justify-content: space-around;
+    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, .2);
+}
+
+.navBarImage {
+    width: 50px;
+    height: 50px;
+}
+
+.logoNav {
+    display: flex;
+    color: white;
+}
+
+.paragraph {
+    padding-right: 20px;
+}

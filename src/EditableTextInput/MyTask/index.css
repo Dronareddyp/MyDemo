@@ -1,0 +1,9 @@
+.containerEle {
+    display: flex;
+}
+
+.tagaButton {
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+}

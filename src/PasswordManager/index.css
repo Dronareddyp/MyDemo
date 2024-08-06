@@ -1,0 +1,19 @@
+.imagesIcons {
+    width: 30px;
+    height: 30px;
+}
+
+.images {
+    height: 50px;
+    width: 100px;
+}
+
+.card_image {
+    display: flex;
+    flex-direction: row;
+}
+
+.password_manager {
+    width: 200px;
+    height: 200px;
+}

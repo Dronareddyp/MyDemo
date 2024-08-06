@@ -1,0 +1,14 @@
+.containers {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.images {
+    height: 50px;
+}
+
+.projectImages {
+    width: 100px;
+    height: 100px;
+}

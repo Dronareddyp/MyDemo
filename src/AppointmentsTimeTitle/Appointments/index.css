@@ -1,0 +1,9 @@
+.db_container {
+    background-image: url("https://assets.ccbp.in/frontend/react-js/appointments-app/appointments-img.png");
+    height: 100vh;
+}
+
+.formElement {
+    display: flex;
+    flex-direction: column;
+}

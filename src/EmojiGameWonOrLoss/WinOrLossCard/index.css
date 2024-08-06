@@ -1,0 +1,4 @@
+.db_containerWon {
+    display: flex;
+    flex-direction: row;
+}

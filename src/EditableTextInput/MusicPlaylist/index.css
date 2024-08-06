@@ -1,0 +1,6 @@
+.musicContainer {
+    background-image: url("https://assets.ccbp.in/frontend/react-js/music-playlist/music-playlist-Edsheeran-bg.png");
+    background-size: cover;
+    height: 50vh;
+    width: 100vw;
+}
